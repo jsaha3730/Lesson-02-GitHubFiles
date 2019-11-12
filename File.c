@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-
+//tested 
 
 int main(){
 
